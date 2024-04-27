@@ -1,4 +1,4 @@
-package model.entities;
+package model.p4;
 
 public class EnderecoUsuario {
 
